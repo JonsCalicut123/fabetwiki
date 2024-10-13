@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+FABET - Nhà Cái Cá Cược Uy Tín Châu Á, Khuyến Mãi Hấp Dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`FABET <https://fabet.wiki/>`_ là một thương hiệu cá cược uy tín tại châu Á, nổi tiếng với sản phẩm cá cược hợp pháp, trụ sở chính tại Philippines và giấy phép từ First Cagayan. FABET thu hút người chơi nhờ kho trò chơi đa dạng như cá cược thể thao, casino trực tuyến, cùng các game đổi thưởng hấp dẫn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+FABET cung cấp tỷ lệ thắng cao, khuyến mãi lên đến 20 triệu đồng cho người mới, và hoàn trả hàng ngày 1.25%, giúp tối đa hóa lợi ích cho người chơi. Đội ngũ CSKH hỗ trợ 24/24 qua nhiều kênh liên hệ như Zalo, Skype, và Live Chat, giúp giải quyết mọi vấn đề nhanh chóng và đảm bảo sự an tâm.
 
-.. note::
+Thông tin liên hệ:
 
-   This project is under active development.
+Địa chỉ: 29/1 Hẻm 277 Trường Chinh, Phường 14, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0777120248. 
 
-.. toctree::
+Email: info@fabet.wiki. 
 
-   usage
-   api
+Website: https://fabet.wiki/ 
+
+#fabet #trangchufabet #dangkyfabet #dangnhapfabet #linkfabet
